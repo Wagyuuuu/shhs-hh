@@ -1,4 +1,8 @@
 <div align="center">
+  
+![THE SPAWN](https://img.shields.io/badge/THE_SPAWN-REAWAKENED-193B70?style=plastic&labelColor=101B30)
+
+<div align="center">
 
 <div align="center">
 
@@ -37,3 +41,12 @@
 ```
 
 </div>⠀
+
+
+Hello! I'm Astro, Wagyu, Minty, or Charlotte!
+
+Im a spawnist, though not like the cult, ew
+
+I am a fictionkin, and therian.
+
+<h1 align="center">guys help me asher wants my wig!!</h1>
